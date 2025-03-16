@@ -1,2 +1,2 @@
 # ncmdump
-转换网易NCM音乐
+网易NCM音乐转换工具
